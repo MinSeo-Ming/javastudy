@@ -1,6 +1,6 @@
 package com.javastudy.chapter11.ex16;
 
-import com.javastudy.chapter11.ex4.MyVector;
+
 
 import java.util.Iterator;
 
